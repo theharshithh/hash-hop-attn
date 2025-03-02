@@ -2,7 +2,7 @@
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-## HashHop Attention: An Experimental Approach for Long-Context Processing
+## An Experimental Approach for Long-Context Processing
 
 HashHop Attention is an approach we're exploring for handling extremely long sequences (up to 100M tokens) in transformer models. It introduces a "hopping" mechanism that allows models to efficiently navigate through large contexts, similar to how humans might use an index to find information in a long document.
 
@@ -131,7 +131,7 @@ python val.py
 
 ## Further Goals
 
-This is an initial implementation inspired by the HashHop attention mechanism described by Magic.dev[https://magic.dev/blog/100m-token-context-windows]. Our goal is to see if this approach can scale to ultra-long contexts (>100M tokens).
+This is an initial implementation inspired by the HashHop attention mechanism described by [Magic.dev](https://magic.dev/blog/100m-token-context-windows). Our goal is to see if this approach can scale to ultra-long contexts (>100M tokens).
 
 Further roadmap includes:
 - Multi-scale hash indexing
