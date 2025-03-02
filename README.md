@@ -29,7 +29,7 @@ vRLWdcwV → sVLdzfJu
 YOJVrdjK → WKPUyWON
 ```
 
-By using these meaningless strings, we force models to truly store and retrieve information rather than relying on patterns or context clues. This helps in avoiding [Super-Position and Polysemicity](https://transformer-circuits.pub/2022/toy_model/index.html#motivation)
+By using these meaningless strings, we force models to truly store and retrieve information rather than relying on patterns or context clues. This helps in avoiding [Superposition and Polysemicity](https://transformer-circuits.pub/2022/toy_model/index.html#motivation)
 
 ## How HashHop Works
 
